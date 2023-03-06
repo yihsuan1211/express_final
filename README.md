@@ -15,7 +15,7 @@ git clone https://github.com/yihsuan1211/express_final.git
 
 2. 進入專案資料夾  
 ```
-cd Express_final
+cd express_final
 ```
 
 3. 載入相關套件，終端機輸入  
